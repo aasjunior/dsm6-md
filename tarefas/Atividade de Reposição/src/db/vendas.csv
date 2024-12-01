@@ -1,0 +1,11 @@
+ID_Cliente,Categoria_Produto,Quantidade,Data_Compra,Valor_Total,Cliente_VIP
+101,Eletrônicos,2,2024-01-10,1500.00,Sim
+102,Eletrodomésticos,1,2024-01-12,700.00,Não
+103,Móveis,3,2024-01-15,2100.00,Sim
+104,Vestuário,5,2024-01-18,500.00,Não
+105,Eletrônicos,1,2024-01-20,800.00,Não
+106,Eletrodomésticos,2,2024-01-22,1400.00,Sim
+107,Móveis,1,2024-01-25,700.00,Não
+108,Vestuário,4,2024-01-28,400.00,Não
+109,Eletrônicos,3,2024-01-30,2400.00,Sim
+110,Eletrodomésticos,1,2024-02-01,600.00,Não
